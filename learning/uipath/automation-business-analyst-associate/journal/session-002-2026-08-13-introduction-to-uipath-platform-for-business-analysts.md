@@ -11,15 +11,12 @@
 
 ## What I learned
 
-- The UiPath Platform supports the automation lifecycle, from identifying and understanding a process through designing, implementing, and managing an automation.
-- Business Analysts help determine whether a process is a good automation candidate and document the requirements, process steps, exceptions, and expected outcomes.
-- Clear collaboration between business stakeholders and the automation team helps ensure that the solution addresses the actual business need.
+- UiPath Platform
+- UiPath Discover-Automate-Operate Framework
+- Case study showing how UiPath tools helped a retail giant to achieve automation goals
 
 ## Challenges I solved
-
-- Clarified the UiPath Academy course structure: this is a separate course within the broader Automation Business Analyst Associate training path, not another section of **Introduction to Automation**.
-- Kept this work separate from the August 12 entry so that each day’s progress and learning evidence are documented accurately.
-- The diploma displays an issue date of **August 14, 2026**, while I completed the learning session on August 13 in my local time.
+- 
 
 ## Evidence
 
