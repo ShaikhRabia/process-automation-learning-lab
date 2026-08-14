@@ -5,7 +5,7 @@
 
 ## What I accomplished
 
-- Recompleted the **Introduction to Automation** course as part of my Automation Business Analyst Associate learning path.
+- Refreshed the **Introduction to Automation** course as part of my Automation Business Analyst Associate learning path. I had originally completed this on March 7, 2026
 - Scored **100%** on the **Check Your Knowledge** quiz.
 - Reviewed the foundational purpose of automation and how it can improve repetitive, rules-based business processes.
 
@@ -16,9 +16,7 @@
 - An Automation Business Analyst helps connect business needs with an appropriate automation solution by examining the current process, requirements, exceptions, and expected outcomes.
 
 ## Challenges I solved
-
-- UiPath Academy continued to show a **March 7, 2026** diploma date even though I completed the course again on August 12.
-- I confirmed that I had previously started and completed this course in March, so UiPath retained the original diploma date instead of issuing a new one.
+- 
 
 ## Evidence
 
